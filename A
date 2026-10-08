@@ -1,0 +1,15 @@
+index.html
+manifest.json
+sw.js
+icons/
+   icon-192.png
+   icon-512.png
+MyScore
+│
+├── index.html
+├── manifest.json
+├── sw.js
+│
+└── icons
+    ├── icon-192.png
+    └── icon-512.png
